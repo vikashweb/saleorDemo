@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    padding:0;
+    text-transform:capitalize;
+    line-height:1.2;
+    box-sizing:border-box;
+}
+body{
+    background-color: #F1F6F6;
+}
